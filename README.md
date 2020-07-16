@@ -2,6 +2,8 @@
 
 This action displays the PyLint score of the files changed and files added in HEAD vs. BASE as assessed by git diff. If the changed files in HEAD score lower than BASE, the action will fail.
 
+This action is in development and I will be adding capability.
+
 ##Usage
 
 
