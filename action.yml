@@ -1,4 +1,5 @@
 name: Campsite-Rule-Python-Lint
+description: Shows PyLint score of added/changed files in HEAD/BASE. Fails if HEAD scores below BASE.
 author: jdreeve
 jobs:
   build:
